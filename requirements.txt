@@ -1,0 +1,7 @@
+tinkoff-investments==0.2.0b40
+vk-api==11.9.9
+numpy==1.23.5
+ta==0.10.2
+pandas~=1.5.2
+tinkoff~=0.1.1
+DateTime~=4.7
